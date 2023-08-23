@@ -2,6 +2,8 @@
 
 rating at the start of this repo: 1066
 
+RESOURCES
+
 CSES Problem Set: https://cses.fi/problemset/list
 
 Topics and respective channles: https://docs.google.com/document/d/1iXRs_bcjimqm-mFiIXWIolljSAS_1Xg8OZ2TzMBLhcg/edit
