@@ -2,6 +2,8 @@
 
 rating at the start of this repo: 1066
 
+CSES Problem Set: https://cses.fi/problemset/list
+
 Topics and respective channles: https://docs.google.com/document/d/1iXRs_bcjimqm-mFiIXWIolljSAS_1Xg8OZ2TzMBLhcg/edit
 
 Striver's CP Sheet: https://takeuforward.org/interview-experience/strivers-cp-sheet/
