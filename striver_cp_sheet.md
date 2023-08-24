@@ -1,6 +1,6 @@
 Implementation/Constructive:-
 
-- [ ] https://codeforces.com/problemset/problem/282/A
+- [x] https://codeforces.com/problemset/problem/282/A
 - [ ] https://codeforces.com/contest/514/problem/A
 - [ ] https://codeforces.com/problemset/problem/263/A
 - [ ] https://codeforces.com/problemset/problem/151/A
