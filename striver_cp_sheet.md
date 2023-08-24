@@ -2,7 +2,7 @@ Implementation/Constructive:-
 
 - [x] https://codeforces.com/problemset/problem/282/A
 - [x] https://codeforces.com/contest/514/problem/A
-- [ ] https://codeforces.com/problemset/problem/263/A
+- [x] https://codeforces.com/problemset/problem/263/A
 - [ ] https://codeforces.com/problemset/problem/151/A
 - [ ] https://codeforces.com/problemset/problem/723/A
 - [ ] https://codeforces.com/problemset/problem/1352/A
