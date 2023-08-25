@@ -6,10 +6,10 @@ Implementation/Constructive:-
 - [ ] https://codeforces.com/problemset/problem/151/A
 - [x] https://codeforces.com/problemset/problem/723/A
 - [x] https://codeforces.com/problemset/problem/1352/A
-- [ ] https://codeforces.com/problemset/problem/510/A
-- [ ] https://codeforces.com/problemset/problem/785/A
-- [ ] https://codeforces.com/problemset/problem/144/A
-- [ ] https://codeforces.com/problemset/problem/1030/A
+- [x] https://codeforces.com/problemset/problem/510/A
+- [x] https://codeforces.com/problemset/problem/785/A
+- [x] https://codeforces.com/problemset/problem/144/A
+- [x] https://codeforces.com/problemset/problem/1030/A
 - [ ] https://codeforces.com/problemset/problem/136/A
 - [ ] https://codeforces.com/problemset/problem/110/A
 - [ ] https://codeforces.com/problemset/problem/116/A
