@@ -5,3 +5,6 @@ bool isPrime(int n){
   }
   return true;
 }
+
+-> TC-O(sqrt(N))
+-> SC-O(1)
