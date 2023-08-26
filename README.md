@@ -17,3 +17,9 @@ Binary Lifting By Shivam Bhadani: https://twitter.com/shivambhadani_/status/1689
 DP Sheet By Shivam Bhadani: https://docs.google.com/document/d/1eYZZFKfCTE5kJcmGIYybHaDdpqWgYwRZlwwUOmHz4Kg/edit
 
 AtCoder DP Tasks: https://atcoder.jp/contests/dp/tasks
+
+Topics You Must Know To Reach Expert - https://www.youtube.com/watch?v=U2E9PxRd680
+
+<img width="1440" alt="Screenshot 2023-08-26 at 4 18 19 PM" src="https://github.com/pratikflies/cf_journey/assets/76919061/b0d65464-7ebf-4d26-b89d-742f2da1504d">
+
+
