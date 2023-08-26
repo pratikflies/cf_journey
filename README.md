@@ -6,7 +6,7 @@ RESOURCES
 
 CSES Problem Set: https://cses.fi/problemset/list
 
-Topics and respective channles: https://docs.google.com/document/d/1iXRs_bcjimqm-mFiIXWIolljSAS_1Xg8OZ2TzMBLhcg/edit
+Topics and respective channles: https://docs.google.com/document/d/1zgfsdjxxH5gl7NFUsBnfnpJdVNIx-tJ53YtfeO8mtCY/edit
 
 Striver's CP Sheet: https://takeuforward.org/interview-experience/strivers-cp-sheet/
 
