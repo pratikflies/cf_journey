@@ -11,3 +11,6 @@ void primeFactorization(int n){
   }
   if(n>1) cout<<n<<" "<<1<<endl;
 }
+
+TC - O(sqrt(n))
+SC - O(1)
