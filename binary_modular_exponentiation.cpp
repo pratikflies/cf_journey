@@ -9,8 +9,8 @@ int power(long long x, unsigned int y, int p){
         //If y is odd, multiply x with result;
         if (y&1) res=(res*x)%p;
  
-        // y must be even now;
-        y=y>>1; // y=y/2;
+        //y must be even now;
+        y=y>>1; //y=y/2;
         x=(x*x)%p;
     }
     return res;
