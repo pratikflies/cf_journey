@@ -10,7 +10,7 @@ Implementation/Constructive:-
 - [x] https://codeforces.com/problemset/problem/785/A
 - [x] https://codeforces.com/problemset/problem/144/A
 - [x] https://codeforces.com/problemset/problem/1030/A
-- [ ] https://codeforces.com/problemset/problem/136/A
+- [x] https://codeforces.com/problemset/problem/136/A
 - [ ] https://codeforces.com/problemset/problem/110/A
 - [ ] https://codeforces.com/problemset/problem/116/A
 - [ ] https://codeforces.com/problemset/problem/977/A
