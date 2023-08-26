@@ -16,3 +16,6 @@ void sieveOfEratosthenes(int n){
             cout<<p<<" ";
     }
 }
+
+->TC: O(N*log(log(N)))
+->SC: O(N)
