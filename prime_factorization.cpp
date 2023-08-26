@@ -45,5 +45,5 @@ int main()
     cout<<n<<endl;
 }
 
-TC - O(nlog(longn)) for pre-processing and O(logn) per query
+TC - O(nlog(logn)) for pre-processing and O(logn) per query
 SC - O(n)
