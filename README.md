@@ -20,6 +20,6 @@ AtCoder DP Tasks: https://atcoder.jp/contests/dp/tasks
 
 Topics You Must Know To Reach Expert - https://www.youtube.com/watch?v=U2E9PxRd680
 
-<img width="1105" alt="Screenshot 2023-08-26 at 4 18 19 PM" src="https://github.com/pratikflies/cf_journey/assets/76919061/f95417fd-ce7b-4e87-8af4-1066f257144b">
+<img width="700" alt="Screenshot" src="https://github.com/pratikflies/cf_journey/assets/76919061/f95417fd-ce7b-4e87-8af4-1066f257144b">
 
 
