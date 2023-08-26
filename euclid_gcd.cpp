@@ -4,4 +4,4 @@ int gcd(int a, int b){
 }
 
 TC: O(log(min(a,b))
-SC: O(log(min(a,b))
+SC: O(log(min(a,b)) //auxiliary stack space;
